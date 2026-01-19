@@ -37,3 +37,4 @@ C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\De
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\Debug\net8.0\Identity.API.pdb
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\Debug\net8.0\Identity.API.genruntimeconfig.cache
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\Debug\net8.0\ref\Identity.API.dll
+C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\Debug\net8.0\Identity.API.sourcelink.json

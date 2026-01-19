@@ -15,3 +15,4 @@ C:\Users\raj\auth-identity-service\services\identity-service\Identity.Infrastruc
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Infrastructure\obj\Debug\net8.0\refint\Identity.Infrastructure.dll
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.pdb
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Infrastructure\obj\Debug\net8.0\ref\Identity.Infrastructure.dll
+C:\Users\raj\auth-identity-service\services\identity-service\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.sourcelink.json

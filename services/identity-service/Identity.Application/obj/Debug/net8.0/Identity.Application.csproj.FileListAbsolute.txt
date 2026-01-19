@@ -13,3 +13,4 @@ C:\Users\raj\auth-identity-service\services\identity-service\Identity.Applicatio
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Application\obj\Debug\net8.0\refint\Identity.Application.dll
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Application\obj\Debug\net8.0\Identity.Application.pdb
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Application\obj\Debug\net8.0\ref\Identity.Application.dll
+C:\Users\raj\auth-identity-service\services\identity-service\Identity.Application\obj\Debug\net8.0\Identity.Application.sourcelink.json

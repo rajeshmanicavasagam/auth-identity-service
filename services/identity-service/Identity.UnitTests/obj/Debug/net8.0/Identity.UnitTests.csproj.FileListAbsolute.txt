@@ -102,3 +102,4 @@ C:\Users\raj\auth-identity-service\services\identity-service\Identity.UnitTests\
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.UnitTests\obj\Debug\net8.0\Identity.UnitTests.pdb
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.UnitTests\obj\Debug\net8.0\Identity.UnitTests.genruntimeconfig.cache
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.UnitTests\obj\Debug\net8.0\ref\Identity.UnitTests.dll
+C:\Users\raj\auth-identity-service\services\identity-service\Identity.UnitTests\obj\Debug\net8.0\Identity.UnitTests.sourcelink.json
