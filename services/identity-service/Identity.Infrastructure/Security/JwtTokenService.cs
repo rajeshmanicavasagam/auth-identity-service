@@ -9,7 +9,9 @@ namespace Identity.Infrastructure.Security;
 
 public class JwtTokenService : ITokenService
 {
-    private const string SecretKey = "SUPER_SECRET_DEMO_KEY_CHANGE_ME";
+	private const string SecretKey =
+    "SUPER_SECRET_DEMO_KEY_CHANGE_ME_1234567890_ABCDEF";
+
     private const string Issuer = "identity-service";
 
     public string GenerateToken(User user)
