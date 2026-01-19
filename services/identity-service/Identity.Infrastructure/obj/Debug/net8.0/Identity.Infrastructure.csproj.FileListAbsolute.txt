@@ -10,9 +10,9 @@ C:\Users\raj\auth-identity-service\services\identity-service\Identity.Infrastruc
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.AssemblyInfo.cs
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\raj\auth-identity-service\services\identity-service\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.sourcelink.json
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Infrastructure\obj\Debug\net8.0\Identity.9C1318B7.Up2Date
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.dll
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Infrastructure\obj\Debug\net8.0\refint\Identity.Infrastructure.dll
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.pdb
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Infrastructure\obj\Debug\net8.0\ref\Identity.Infrastructure.dll
-C:\Users\raj\auth-identity-service\services\identity-service\Identity.Infrastructure\obj\Debug\net8.0\Identity.Infrastructure.sourcelink.json

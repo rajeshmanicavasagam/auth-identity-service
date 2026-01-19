@@ -5,11 +5,19 @@ C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\De
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Identity.API.runtimeconfig.json
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Identity.API.dll
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Identity.API.pdb
+C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Identity.Application.dll
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Identity.Domain.dll
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\bin\Debug\net8.0\Identity.Infrastructure.dll
@@ -23,6 +31,7 @@ C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\De
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\Debug\net8.0\Identity.API.csproj.CoreCompileInputs.cache
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\Debug\net8.0\Identity.API.MvcApplicationPartsAssemblyInfo.cs
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\Debug\net8.0\Identity.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\Debug\net8.0\Identity.API.sourcelink.json
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\Debug\net8.0\staticwebassets.build.json
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\Debug\net8.0\staticwebassets.development.json
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\Debug\net8.0\staticwebassets\msbuild.Identity.API.Microsoft.AspNetCore.StaticWebAssets.props
@@ -37,4 +46,3 @@ C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\De
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\Debug\net8.0\Identity.API.pdb
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\Debug\net8.0\Identity.API.genruntimeconfig.cache
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\Debug\net8.0\ref\Identity.API.dll
-C:\Users\raj\auth-identity-service\services\identity-service\Identity.API\obj\Debug\net8.0\Identity.API.sourcelink.json

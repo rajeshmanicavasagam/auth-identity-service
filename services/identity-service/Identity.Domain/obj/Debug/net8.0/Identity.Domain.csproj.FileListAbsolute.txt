@@ -5,8 +5,8 @@ C:\Users\raj\auth-identity-service\services\identity-service\Identity.Domain\obj
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfoInputs.cache
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Domain\obj\Debug\net8.0\Identity.Domain.AssemblyInfo.cs
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Domain\obj\Debug\net8.0\Identity.Domain.csproj.CoreCompileInputs.cache
+C:\Users\raj\auth-identity-service\services\identity-service\Identity.Domain\obj\Debug\net8.0\Identity.Domain.sourcelink.json
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Domain\obj\Debug\net8.0\Identity.Domain.dll
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Domain\obj\Debug\net8.0\refint\Identity.Domain.dll
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Domain\obj\Debug\net8.0\Identity.Domain.pdb
 C:\Users\raj\auth-identity-service\services\identity-service\Identity.Domain\obj\Debug\net8.0\ref\Identity.Domain.dll
-C:\Users\raj\auth-identity-service\services\identity-service\Identity.Domain\obj\Debug\net8.0\Identity.Domain.sourcelink.json
